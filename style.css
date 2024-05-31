@@ -1,0 +1,45 @@
+.continer{
+    border-radius: 50px;
+    height: 500px;
+    width: 400px;
+    border: 2px black solid;
+    margin-top: 100px;
+    margin-left: 550px;
+    background-color: aqua;
+}
+img{
+    width: 400px;
+    height: 250px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+h2,h3{
+    text-align: center;
+}
+.progressouter{
+    border: 1px black solid;
+    height: 4px;
+    background-color: black;
+}
+.progressinner{
+    border: 1px goldenrod solid;
+    height: 4px;
+    background-color: goldenrod;
+    width: 20px;
+}
+#timecontiner{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 500px;
+    margin-top: 5px;
+    padding: 5px;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    padding: 10px;
+}
+
+
